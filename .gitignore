@@ -1,5 +1,5 @@
 # Ignore everything
-/*
+
 
 !.gitignore
 !.gitpod.yml
@@ -9,13 +9,13 @@
 !README.md
 
 !/exercises
-!/exercises/*
+!/exercises
 
 !/.learn
-/.learn/**
+/.learn
 !/.learn/resets
-!/.learn/resets/**
+!/.learn/resets
 !/.learn/assets
-!/.learn/assets/**
+!/.learn/assets
 !/.learn/exercises
-!/.learn/exercises/**
+!/.learn/exercises
